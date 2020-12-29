@@ -13,12 +13,6 @@ $ node index.js | <For run the script !>
 ```
 
 ## Images 
-[![N|Solid](https://github.com/NaN2005/FzNET/blob/image/template/Node%20..PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/image/template/Node%20..PNG?raw=true)
+[![N|Solid](https://github.com/NaN2005/FzNET/blob/images/menu.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/images/menu.PNG?raw=true)
 
-[![N|Solid](https://github.com/NaN2005/FzNET/blob/image/template/webMenu.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/image/template/webMenu.PNG?raw=true)
-
-[![N|Solid](https://github.com/NaN2005/FzNET/blob/image/template/webAttack.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/image/template/webAttack.PNG?raw=true)
-
-[![N|Solid](https://github.com/NaN2005/FzNET/blob/image/template/termAttack.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/image/template/termAttack.PNG?raw=true)
-
-[![N|Solid](https://github.com/NaN2005/FzNET/blob/image/template/menu.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/image/template/menu.PNG?raw=true)
+[![N|Solid](https://github.com/NaN2005/FzNET/blob/images/attack.PNG?raw=true)](https://github.com/NaN2005/FzNET/blob/images/attack.PNG?raw=true)
