@@ -1,0 +1,63 @@
+html {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: Arial;
+}
+
+.link {
+    color: #818181;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #b0b0b0
+}
+
+.link::before {
+    content: url('/media/github.png');
+    zoom: 4%
+}
+
+.input {
+    margin: 8px;
+    background-color: #d6d6d6;
+}
+
+.btn {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.btn a{
+    color: white;
+    background-color: #151515;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 2px;
+}
+
+.btn a:hover {
+    background-color: #2b2b2b;
+    cursor: pointer;
+}
+
+.form {
+    padding: 7px;
+    display: block;
+    background-color: #494949;
+    width: 38%;
+    border-radius: 5px;
+    filter: drop-shadow(0 8px 8px rgba(3, 4, 3, 0.5));
+}
+
+footer {
+    color: white;
+    position: absolute;
+    bottom: 1%;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background-color: #060606;
+}

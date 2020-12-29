@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Consolas;
+    src: url('/media/cmd.ttf');
+}
+
+.console {
+    font-family: Consolas;
+    color: white;
+    margin: 6px;
+    padding-left: 5px;
+    text-align: left;
+    width: 60%;
+    height: 300px;
+    background-color: #0C0C0C;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 3px;
+}
+
+.load::after {
+    content: url('/media/load.gif');
+    zoom: 8%
+}
+
+.sucess {
+    color: #119C0E;
+}
+
+.separator {
+    color: #ffce00;
+}
+
+.error {
+    color: #b00000;
+}
+
+.attack {
+    color: #3300b2
+}
