@@ -6,7 +6,7 @@ FzNET is a powerfull tool for DoS/DDoS website
 It's simply !
 Type this in your terminal:
 ```sh
-$ git clone https://github.com/NaN2005/FzNET
+$ git clone https://github.com/667soNaN/FzNET
 $ cd <PATH to the file>
 $ npm i | <For install libs>
 $ node index.js | <For run the script !>
